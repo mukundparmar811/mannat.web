@@ -1,0 +1,312 @@
+@keyframes left {
+    from{
+        transform: translateY(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+@keyframes right{
+    from{
+        transform: translateX(300px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes bottom-nav{
+    from{
+        transform: translateY(-200px);
+        opacity: 1;
+    }
+    to{
+        transform: translateY(0px);
+        opacity: 0;
+    }
+}
+@keyframes card-con{
+    from{
+        transform: translateX(800px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes text-one{
+    from{
+        transform: translateX(-500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes text-two{
+    from{
+        transform: translateX(-500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes second-sec-right-h1{
+    from{
+        transform: translateY(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+    
+}
+@keyframes button{
+    from{
+        transform: translateX(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}@keyframes third-btn {
+    from{
+        transform: translateX(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes img-div{
+    from{
+        transform: translateX(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+@keyframes hover-btn{
+    0%{
+        width: 1px;
+        height: 1px;
+        opacity: 1;
+    }
+    100%{
+        width: 100px;
+        height: 100px;
+        opacity: 0;
+    }
+}
+@keyframes counter {
+    0%{
+        counter-increment: count 0;
+    }
+    10%{
+        counter-increment: count -789;
+    }
+    15%{
+        counter-increment: count -749;
+    }
+    20%{
+        counter-increment: count -649;
+    }
+    25%{
+        counter-increment: count -600;
+    }
+    30%{
+        counter-increment: count -555;
+    }
+    35%{
+        counter-increment: count -501;
+    }
+    40%{
+        counter-increment: count -456;
+    }
+    50%{
+        counter-increment: count -412;
+    }
+    55%{
+        counter-increment: count -366;
+    } 
+    60%{
+        counter-increment: count -350;
+    }
+    65%{
+        counter-increment: count -288;
+    }
+
+    70%{
+        counter-increment: count -253;
+    }
+    80%{
+        counter-increment: count -222;
+    }
+    90%{
+        counter-increment: count -150;
+    }
+    100%{
+        counter-increment: count -100;
+    }
+    
+}
+@keyframes third-img{
+    from{
+        transform: translateY(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes third-img2{
+    from{
+        transform: translateY(500px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes arrow{
+    from{
+        transform: translateX(500px);
+        opacity: 1;
+    }
+    to{
+        transform: translateX(0);
+        opacity: 0;
+    }
+}
+@keyframes forth-sec-top-h1{
+    from{
+        transform: translateY(300px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes forth-sec-bottom{
+    from{
+        transform: translateY(300px);
+        opacity: 0;
+    }
+    to{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes archi2 {
+    0%{
+        transform: translateX(-650px);
+    }
+    90%{
+        transform: translateX(0px);
+    }
+}
+@keyframes archi4 {
+    0%{
+        transform: translateX(-650px);
+    }
+    90%{
+        transform: translateX(0px);
+    }
+}
+@keyframes counter {
+    0%{
+        counter-increment: count 0;
+    }
+    10%{
+        counter-increment: count -349;
+    }
+    15%{
+        counter-increment: count -333;
+    }
+    20%{
+        counter-increment: count -324;
+    }
+    25%{
+        counter-increment: count -308;
+    }
+    30%{
+        counter-increment: count -299;
+    }
+    35%{
+        counter-increment: count -279;
+    }
+    40%{
+        counter-increment: count -259;
+    }
+    50%{
+        counter-increment: count -222;
+    }
+    55%{
+        counter-increment: count -201;
+    } 
+    60%{
+        counter-increment: count -179;
+    }
+    65%{
+        counter-increment: count -158;
+    }
+
+    70%{
+        counter-increment: count -124;
+    }
+    80%{
+        counter-increment: count -99;
+    }
+    90%{
+        counter-increment: count -45;
+    }
+    100%{
+        counter-increment: count -30;
+    }
+}
+@keyframes img3 {
+    0%{
+        transform: translateX(600px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+@keyframes img2 {
+    0%{
+        transform: translateY(500px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+@keyframes sixth-h1{
+    0%{
+        transform: translateY(400px);
+        opacity: 0;
+    }
+    100%{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
